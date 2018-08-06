@@ -2,9 +2,6 @@
 
 A list of tools & resources for designers.
 
-elipse elipse elipse elipse elipse elipse elipse elipse elipse
-
-elipse elipse elipse elipse elipse
 ----
 
 *最近半年初入设计圈，收集了不少 bookmark 想在年底来一个总结。

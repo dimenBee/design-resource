@@ -2,6 +2,12 @@
 
 A list of tools & resources for designers.
 
+<<<<<<< HEAD
+=======
+elipse elipse elipse elipse elipse elipse elipse elipse elipse
+
+elipse elipse elipse elipse elipse
+>>>>>>> parent of a8d75c1... adding
 ----
 
 *最近半年初入设计圈，收集了不少 bookmark 想在年底来一个总结。
